@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página de Mascotas</title>
+    <title>Mi Página de Mascota</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -86,7 +86,7 @@
 </section>
 
 <footer>
-    <p>© 2024 Mi Página de Mascotas. Todos los derechos reservados.</p>
+    <p>© 2024 Mi Página de Mascota. Todos los derechos reservados.</p>
 </footer>
 
 </body>
