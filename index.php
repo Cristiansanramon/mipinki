@@ -86,7 +86,7 @@
 </section>
 
 <footer>
-    <p>© 2024 Mi Página de Mascotas. Todos los derechos reservados.</p>
+    <p>© 2024 Mi Página de Mascota. Todos los derechos reservados.</p>
 </footer>
 
 </body>
